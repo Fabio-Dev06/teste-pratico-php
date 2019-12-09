@@ -45,6 +45,8 @@ A aplicação pode ser feita em PHP puro ou algum framework conhecido no mercado
 * Faça fork desse projeto e edite este README explicando como devo fazer para criar as tabelas e testar a tela de venda;
 * Todos os arquivos necessários para rodar o projeto devem estar no repositório do github;
 
+--->Para utilizar este sistema, basta utilizar o menu de navegação e seguir. Após cadastrada a venda, ele lista TODOS.
+Considerações finais: agradeço pela oportunidade de realizar este teste. Tive dificuldades ao realizá-lo, reconheço isso.
 
 ## Diferenciais
 
